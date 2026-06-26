@@ -10,7 +10,7 @@
 
 You can instantly download and install the latest stable APK directly from our GitHub Releases page—no Android Studio required!
 
-👉 **[Download Latest PdfCore APK](https://github.com/originalzerodev/PdfCore/releases/latest)**
+👉 **[Download Latest PdfCore APK](https://github.com/originalzerodev/PdfCore_Project/releases/latest)**
 
 ---
 
