@@ -28,7 +28,7 @@ You can instantly download and install the latest stable APK directly from our G
 
 | Home Screen | View PDF | Compress PDF | Images to PDF |
 | :---: | :---: | :---: | :---: |
-| <img src="screenshots/home.png" width="220"/> | <img src="screenshots/viewer.png" width="220"/> | <img src="screenshots/compress.png" width="220"/> | <img src="screenshots/convert.png" width="220"/> |
+| <img src="screenshots/home.png" width="220"/> | <img src="screenshots/viewer.png" width="220"/| <img src="screenshots/compress.png" width="220"/> | <img src="screenshots/convert.png" width="220"/> |
 
 ---
 
@@ -70,7 +70,7 @@ During testing across different physical devices and Android OS versions, the fo
 
 ## Future Roadmap
 
-As part of our commitment to keeping PdfCore exceptionally lightweight and blazing fast, future development will focus on two major architectural milestones:
+As part of our commitment to keeping PdfCore lightweight and fast, future development will focus on two major architectural milestones:
 
 * **Modular Plugin System**: To avoid feature bloat, the core app will remain strictly dedicated to mandatory, essential features. Advanced capabilities will be introducible dynamically via isolated plugins.
 * **Native C++ Engine Rewrite**: The entire underlying PDF parsing and compression engine will be rewritten in C++ (NDK/JNI) for maximum execution speed, zero JVM garbage collection overhead, and even lower memory/storage footprints.
