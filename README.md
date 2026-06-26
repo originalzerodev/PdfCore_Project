@@ -28,7 +28,7 @@ You can instantly download and install the latest stable APK directly from our G
 
 | Home Screen | View PDF | Compress PDF | Images to PDF |
 | :---: | :---: | :---: | :---: |
-| <img src="screenshots/home.png" width="220"/> | <img src="screenshots/viewer.png" width="220"/| <img src="screenshots/compress.png" width="220"/> | <img src="screenshots/convert.png" width="220"/> |
+| <img src="screenshots/home.png" width="220"/> | <img src="screenshots/viewer.png" width="220"/> | <img src="screenshots/compress.png" width="220"/> | <img src="screenshots/convert.png" width="220"/> |
 
 ---
 
