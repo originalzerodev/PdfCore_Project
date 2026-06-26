@@ -63,7 +63,7 @@ You can instantly download and install the latest stable APK directly from our G
 
 During testing across different physical devices and Android OS versions, the following specific behaviors have been observed:
 
-* **Xiaomi / Redmi Devices**: On devices such as the Redmi Note 10 Pro Max (Android 12), the installed application size may report as ~102 MB rather than the base ~29 MB APK size, and both cache and data storage have been observed to scale linearly during active testing sessions.
+* **Xiaomi / Redmi Devices**: On devices such as the Redmi Note 10 Pro Max (Android 12), the installed application size may report as ~102 MB rather than the base ~29 MB APK size.
 * **Older Android Versions (Pre-Android 13/14)**: On older Android versions, external file managers and system storage menus may initially display `0 B` for newly created image-based PDF files in external storage, even though the file opens and functions correctly inside the app itself.
 
 ---
